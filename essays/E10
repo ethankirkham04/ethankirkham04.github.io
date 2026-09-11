@@ -1,0 +1,22 @@
+---
+layout: essay
+type: essay
+title: "Typescript Reflection"
+date: 2026-09-10
+published: true
+labels:
+  - TypeScript
+  - Software Engineering
+  - E10
+---
+
+## Getting Used to TypeScript
+
+Before this module, most of my programming experience was with languages such as Python, C++, and some JavaScript. TypeScript felt familiar because it is based on JavaScript, but at the same time it added more structure to the way I had to write my code. At first, having to think about types felt like extra work. After using TypeScript more, I started to understand why having those rules can actually make programming easier.
+
+One of the biggest differences I noticed was being able to tell TypeScript exactly what kind of data I expect. For example, I can create a function like this:
+
+```typescript
+function addNumbers(x: number, y: number): number {
+  return x + y;
+}

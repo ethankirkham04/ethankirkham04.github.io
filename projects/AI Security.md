@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ai_security.png
 title: "AI Security"
 date: 2026-01-12
 published: true

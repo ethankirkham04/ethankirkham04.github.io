@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ethan Kirkham",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/ethankirkham04.png",
+    "email": "kirkhame@hawaii.edu",
+    "phone": "808-799-3621",
+    "website": "https://ethankirkham04.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical & Computer Engineering at the University of Hawaiʻi at Mānoa. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ethankirkham04", "url": "http://github.com/ethankirkham04" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Modifying/fixing my truck" },
+    { "name": "Playing piano" },
+    { "name": "Hanging out with friends" },
+    { "name": "Working out/gym" },
+    { "name": "Make tons of money" }
   ],
   "skills": [
     {

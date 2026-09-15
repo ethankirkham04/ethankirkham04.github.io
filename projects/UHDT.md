@@ -6,10 +6,9 @@ title: "UH Drone Technologies"
 date: 2025-01-13
 published: true
 labels:
-  - Drone Technologies
-  - UAV Hardware
-  - Autonomous Systems
-  - Engineering Design
+  - Junior Design Project
+  - Drone Teachnology
+  - Hardware Engineering
 summary: "Worked on the UAV Hardware team to help design, analyze, assemble, and test an autonomous drone for the 2025 Game of Drones Competition."
 ---
 

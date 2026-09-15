@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/drone/drone-square.jpg
+image: img/uhdt1.png
 title: "UH Drone Technologies"
 date: 2025-01-13
 published: true

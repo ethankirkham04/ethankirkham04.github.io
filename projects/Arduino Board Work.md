@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/arduino_thumbwar.png
-title: "Arduino Thumb War"
+image: img/arduino.jpeg
+title: "Arduino Board Work"
 date: 2026-09-17
 published: true
 labels:

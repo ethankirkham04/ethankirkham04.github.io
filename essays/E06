@@ -1,1 +1,22 @@
+---
+layout: essay
+type: essay
+title: "My Interests in Computer Engineering"
+date: 2026-09-11
+published: true
+labels:
+  - Computer Engineering
+  - Artificial Intelligence
+  - Embedded Systems
+  - Career Goals
+---
 
+I chose computer engineering because I have always been interested in technology and wanted to understand what happens behind the devices and systems we use every day. What interested me most about computer engineering was that it combines both hardware and software instead of focusing on only one side. As I have progressed through the program, I have become especially interested in artificial intelligence, embedded systems, robotics, and software development. I enjoy learning how code can communicate with hardware and create something that works in the real world.
+
+Some of my projects have helped me understand what areas of computer engineering I enjoy the most. One example was working on an AI security project where my team tested an AI tutoring system for possible vulnerabilities. I was part of the jailbreaking team, where I created and tested different prompts to see whether the AI could be manipulated into bypassing its restrictions. This project gave me experience with artificial intelligence from a different perspective because instead of only using AI, I had to think about how these systems behave, where they can fail, and how they can be made more secure.
+
+I have also enjoyed working with embedded systems and microcontrollers. Using the Arduino Nano ESP32 has given me experience connecting physical components such as sensors, buttons, resistors, and potentiometers while programming their behavior with CircuitPython. Projects involving analog inputs and force-sensitive sensors have helped me see the connection between electrical circuits and software. I like being able to write a program and then immediately see it affect something physical, whether that is an LED, sensor reading, or another output.
+
+As I continue studying computer engineering, I want to gain more experience with artificial intelligence, robotics, embedded systems, and software development. I also want to become more comfortable designing larger systems instead of only completing individual programming or circuit assignments. Working on more team projects would help me improve my communication, problem-solving, and ability to combine different parts of a system into one complete project.
+
+For my future career, I am still open to both hardware and software engineering. I would like to work in a position where I can continue learning while contributing to technology that has a practical purpose. My goal is to build a strong background in several areas of computer engineering so that I have the flexibility to explore different career paths. Eventually, I hope to take on more responsibility in engineering projects and use both my technical and teamwork skills to help develop useful and reliable technology.

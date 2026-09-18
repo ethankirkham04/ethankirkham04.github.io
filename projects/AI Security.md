@@ -11,8 +11,6 @@ labels:
   - Prompt Engineering
 summary: "My team tested the security of an AI tutor system using jailbreak and RAG poisoning attacks to identify vulnerabilities and improve its defenses."
 ---
-<div class="text-center p-4">
-  <img width="200px" src="../img/ai1.png" class="img-thumbnail" >
 
 AI Security is a project focused on testing the security and reliability of an AI tutor system used for educational purposes.  The system is designed to help students by answering questions, explaining course material, and guiding them through problems.  For this project, our team tested different ways the AI tutor could be manipulated.  One group focused on RAG poisoning, where incorrect information was placed into course materials to see if the AI would retrieve and use it.  Another group focused on jailbreaking, where different prompts were used to try to bypass the AI tutor's safety rules and academic integrity protections.  The goal of the project was to find weaknesses in the system and test ways to make the AI tutor more secure and reliable.
 

@@ -12,7 +12,7 @@ labels:
 summary: "Worked on the UAV Hardware team to help design, analyze, assemble, and test an autonomous drone for the 2025 Game of Drones Competition."
 ---
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/uhdt2.png" class="img-thumbnail" >
 
 The University of Hawaii Drone Technologies project focused on designing and developing an Unmanned Aerial System (UAS) for the 2025 Game of Drones Competition. The mission was based around a search-and-rescue scenario where the drone needed to fly long distances, scan areas for targets, and accurately deliver payloads. Our team worked on several parts of the system including UAV hardware, autonomous flight software, image processing, obstacle avoidance, and the air delivery system. The overall goal was to create a reliable autonomous drone that could complete the mission safely and efficiently.
 
